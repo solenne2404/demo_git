@@ -24,4 +24,7 @@ et si je veux ecrire du code j'indente avec
     </head>  
   </html>  
 ~~~    
+
+This is the *[Markdown Guide](https://www.markdownguide.org)*.  
+
 Voyons voir ... 
