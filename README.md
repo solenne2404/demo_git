@@ -1,5 +1,3 @@
-
-
 # demo_git
 une demo git
 ## ceci est un titre  
@@ -18,11 +16,11 @@ les  ***deux*** si c'est vraiment important
     avec un paragraphe en dessous
   - et c'est tout
 
-et si je veux ectire du code j'indente de 2 tab  
-'''
-    <html>
-      <head>
-        <Title>Test</Title>
-      </head>
-    </html>
-'''
+et si je veux ecrire du code j'indente avec au moins 1 tab    
+    
+  <html>  
+    <head>  
+      <Title>Test</Title>  
+    </head>  
+  </html>  
+Voyons voir ... 
