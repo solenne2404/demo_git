@@ -16,11 +16,12 @@ les  ***deux*** si c'est vraiment important
     avec un paragraphe en dessous
   - et c'est tout
 
-et si je veux ecrire du code j'indente avec au moins 1 tab    
-    
+et si je veux ecrire du code j'indente avec 
+~~~    
   <html>  
     <head>  
       <Title>Test</Title>  
     </head>  
   </html>  
+~~~    
 Voyons voir ... 
