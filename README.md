@@ -1,3 +1,4 @@
+
 # demo_git
 une demo git
 ## ceci est un titre  
@@ -12,7 +13,7 @@ les  ***deux*** si c'est vraiment important
 - et la j'ai une liste
 - avec des choses dedans
   - indentées
-  - indentées
+  - indentées  
     avec un paragraphe en dessous
   - et c'est tout
 
